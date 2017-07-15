@@ -1,0 +1,15 @@
+/* ////////// M E D I A ////////// */
+
+/* media will take up 100% of its container */
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Charome */
+}
+
+
+
+/* ////////// L A Y O U T ////////// */
+
+.row {
+  margin-bottom: 20px;
+}
